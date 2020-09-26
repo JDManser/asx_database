@@ -1,2 +1,5 @@
 # Don't track content of these folders
 backups/
+
+# Do ot track files with these extension
+.DS_Store
